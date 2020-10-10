@@ -1,5 +1,3 @@
-import kotlin.time.milliseconds
-
 fun main() {
 
     operadoresUnarios()
@@ -30,3 +28,4 @@ fun operadoresBinarios(){
     println( a.div(b) )     // 4
     println( a.rem(b) )     // 0
 }
+
